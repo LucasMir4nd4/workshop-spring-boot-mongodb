@@ -1,5 +1,6 @@
 package com.lucasmiranda.workshopmongodb.config;
 
+import com.lucasmiranda.workshopmongodb.domain.Post;
 import com.lucasmiranda.workshopmongodb.domain.User;
 import com.lucasmiranda.workshopmongodb.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
